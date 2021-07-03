@@ -10,3 +10,21 @@ This is short and sweet and in theory very efficient (It follows the same guidel
 
 # Original
 https://www.wowinterface.com/downloads/info4166-RedRange.html
+
+
+# For more addons and such questions 
+You can find me on Silent Shadow discord, on addons/macros/weak aura channels.
+https://discord.gg/MCmBDx3MmC
+
+ 
+# See also 
+The list of the addons i have modified :
+https://github.com/Macumbatbc/My-Addons-list
+
+ 
+
+# Support
+
+https://www.paypal.me/macumbafeh
+
+All support is appreciated
