@@ -1,4 +1,4 @@
-# RedRange-TBCC
+# RedRange TBCC and WOTLKC
 Range spell check, an Old addon ported for TBC Classic, since RangeRecolors and RangeColors wasn't working well.
 
 RedRange is yet another addon which reds out standard ActionButtons when they're out of range, mostly useful if you've got the extra buttons enabled or if you dont notice just the shortcut key color change.
